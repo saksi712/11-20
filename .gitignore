@@ -1,0 +1,8 @@
+**/Binaries/Win64/*.pdb
+11.20/Binaries/
+11.20/DerivedDataCache/
+11.20/Intermediate/
+11.20/Saved/
+**/Plugins/*/Intermediate/
+.vs/
+*.sln
